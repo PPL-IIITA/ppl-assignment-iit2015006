@@ -1,0 +1,16 @@
+essential gift valued : 10  and priced : 2000  gifted by ross to arya on 2017-02-27 01:46:22.152
+essential gift valued : 20  and priced : 3000  gifted by ross to arya on 2017-02-27 01:46:22.155
+essential gift valued : 30  and priced : 4000  gifted by ross to arya on 2017-02-27 01:46:22.159
+essential gift valued : 40  and priced : 5000  gifted by ross to arya on 2017-02-27 01:46:22.162
+essential gift valued : 50  and priced : 6000  gifted by tyrion to sansa on 2017-02-27 01:46:22.164
+essential gift valued : 60  and priced : 7000  gifted by tyrion to sansa on 2017-02-27 01:46:22.167
+essential gift valued : 70  and priced : 8000  gifted by littlefinger to natalia on 2017-02-27 01:46:22.170
+utility gift valued : 10  and priced : 2000  gifted by littlefinger to natalia on 2017-02-27 01:46:22.171
+essential gift valued : 80  and priced : 9000  gifted by Rohan to catalyn on 2017-02-27 01:46:22.173
+essential gift valued : 90  and priced : 10000  gifted by Rohan to catalyn on 2017-02-27 01:46:22.174
+essential gift valued : 100  and priced : 11000  gifted by joey to shae on 2017-02-27 01:46:22.174
+utility gift valued : 20  and priced : 3000  gifted by joey to shae on 2017-02-27 01:46:22.175
+luxury gift valued : 10  and priced : 2000  gifted by joey to shae on 2017-02-27 01:46:22.176
+essential gift valued : 110  and priced : 12000  gifted by ned to danarys on 2017-02-27 01:46:22.177
+essential gift valued : 120  and priced : 13000  gifted by gus to breinne on 2017-02-27 01:46:22.178
+essential gift valued : 130  and priced : 14000  gifted by jon to margaery on 2017-02-27 01:46:22.179
