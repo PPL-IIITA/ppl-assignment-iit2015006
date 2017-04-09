@@ -16,15 +16,41 @@ SECTION ‘A’
    > - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015006.git"                                    
    > - extract ppl-assignment-iit2015006-master.zip  
    > <pre><code>cd ppl-assignment-iit2015006-master.zip</pre></code>
-   > <pre><code>cd AssignmentQues1/ 
-   > java -jar "PPL_Assignment_q1.jar</pre></code>
-   > <pre><code>cd AssignmentQues2/
-   > java -jar "PPL_Assignment_q2.jar</pre></code>
-   > <pre><code>cd AssignmentQues3/
-   > java -jar "q3.jar</pre></code>
+   > <pre><code>cd PPL_Assignment_q1/ 
+   > java -jar "PPL_Assignment_q1.jar"</pre></code>
+   > <pre><code>cd PPL_Assignment_q2/
+   > java -jar "PPL_Assignment_q2.jar"</pre></code>
+   > <pre><code>cd q3/
+   > java -jar "q3.jar"</pre></code>
+   > <pre><code>cd q4/
+   > java -jar "q4.jar"</pre></code>
+   > <pre><code>cd q5/
+   > java -jar "q5.jar"</pre></code>
+   > <pre><code>cd q7/
+   > java -jar "q7.jar"</pre></code>
+   
+   
+### Logs :
+   > <pre><code>cd PPL_Assignment_q1/</pre></code>
+   > - <i>logs_couple_data.txt</i>  will be created after executing jar file
+   >  <pre><code> cd PPL_Assignment_q2/</code></pre>     
+   > - <i>log1_couple_data.txt , log_gift_exchange.txt ,  	k_most_happy.txt ,  	k_most_compactible.txt </i> will be created after executing </i>
+   >  <pre><code> cd q3/</code></pre>     
+   > - <i>log1_couple_data.txt , log_gift_exchange.txt ,  	k_most_happy.txt ,  	k_most_compactible.txt </i> will be created after executing </i>
+   jar file
+   >  <pre><code> cd q4/</code></pre>
+   > - <i>log1_couple_data.txt , log_gift_exchange.txt ,  	k_most_happy.txt ,  	k_most_compactible.txt ,  	log_couple_data_after_patchup</i> will be created after executing </i>
+   jar file
+   >  <pre><code> cd q5/</code></pre>
+   > - <i>log1_couple_data.txt </i> will be created after executing </i>
+   jar file
+   >  <pre><code> cd q7/</code></pre>
+   > - <i>log1_couple_data.txt , find_girlfriend_bsearch.txt , find_girlfriend_default.txt ,  	find_girlfriend_hashmap.txt ,find_girlfriend_array.txt</i> will be created after executing </i>
+   jar file
+   
 To run the program:  
 •	make sure you are in the same directory in which runnable jar file is present.  
-•	Then type : java -jar "PPL_Assignment_q1.jar" and java -jar   "PPL_Assignment_q2.jar" in command line to execute respectively.  
+
 •	Alternatively import files to eclipse neon and execute .  
 •	The LOG files will be generated in the same folder in which jar   file is present.  
 •	DOCUMENTATION is present in doc folder of each question, open   index.html to view.  
