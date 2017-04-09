@@ -47,10 +47,9 @@ SECTION ‘A’
    >  <pre><code> cd q7/</code></pre>
    > - <i>log1_couple_data.txt , find_girlfriend_bsearch.txt , find_girlfriend_default.txt ,  	find_girlfriend_hashmap.txt ,find_girlfriend_array.txt</i> will be created after executing </i>
    jar file
-   
+  
 To run the program:  
 •	make sure you are in the same directory in which runnable jar file is present.  
-
 •	Alternatively import files to eclipse neon and execute .  
 •	The LOG files will be generated in the same folder in which jar   file is present.  
 •	DOCUMENTATION is present in doc folder of each question, open   index.html to view.  
