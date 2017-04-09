@@ -12,7 +12,16 @@ SECTION ‘A’
    > - **Version** :10.0.14393 
    > - **IDE** : Netbeans IDE 8.2 (q3,q4,q5,7) & eclipse neon (q1,q2) 
    > - **jdk** : jdk1.8.0_111 
- 
+### Testing :
+   > - **Download or clone using url** : "https://github.com/PPL-IIITA/ppl-assignment-iit2015006.git"                                    
+   > - extract ppl-assignment-iit2015006-master.zip  
+   > <pre><code>cd ppl-assignment-iit2015006-master.zip</pre></code>
+   > <pre><code>cd AssignmentQues1/ 
+   > java -jar "PPL_Assignment_q1.jar</pre></code>
+   > <pre><code>cd AssignmentQues2/
+   > java -jar "PPL_Assignment_q2.jar</pre></code>
+   > <pre><code>cd AssignmentQues3/
+   > java -jar "q3.jar</pre></code>
 To run the program:  
 •	make sure you are in the same directory in which runnable jar file is present.  
 •	Then type : java -jar "PPL_Assignment_q1.jar" and java -jar   "PPL_Assignment_q2.jar" in command line to execute respectively.  
