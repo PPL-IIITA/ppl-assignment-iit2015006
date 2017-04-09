@@ -7,13 +7,11 @@ ENROLLMENT NUMBER : IIT2015006
  
 SECTION ‘A’  
  
-BUILD SYSTEM:  
-
-OPERATING SYSTEM : WINDOWS 10 PRO (64 bit)  
-  
-COMPILER & VERSION : jdk1.8.0_121  
-
-IDE USED : ECLIPSE NEON  
+### BUILD TOOLS: 
+   > - **OS** : Windows 10 pro (64 bit) 
+   > - **Version** :10.0.14393 
+   > - **IDE** : Netbeans IDE 8.2 (q3,q4,q5,7) & eclipse neon (q1,q2) 
+   > - **jdk** : jdk1.8.0_111 
  
 To run the program:  
 •	make sure you are in the same directory in which runnable jar file is present.  
