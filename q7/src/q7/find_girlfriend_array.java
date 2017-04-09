@@ -26,7 +26,7 @@ public class find_girlfriend_array extends find_girlfriend{
      * @throws FileNotFoundException 
      */
     public void find_girlfriend_func(String boys[]  , girl girls[] ,couples_info couples[]  , int total_boys , int total_girls ,int total_couples ) throws FileNotFoundException, IOException{
-        DataOutputStream dataoutputstream = new DataOutputStream(new FileOutputStream("find_girlfriend_default.txt"));
+        DataOutputStream dataoutputstream = new DataOutputStream(new FileOutputStream("find_girlfriend_array.txt"));
         for(int i=0;i<total_boys;i++){
             int j;   
             for(j=0;j<total_couples;j++){
