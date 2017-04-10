@@ -62,7 +62,7 @@ SECTION ‘A’
  >	make sure you are in the same directory in which runnable jar file is present.  
  >	Alternatively import files to eclipse neon and execute .  
  >	The LOG files will be generated in the same folder in which jar   file is present.  
- >	DOCUMENTATION is present in doc folder of each question, open   index.html to view.  
+ >	DOCUMENTATION is present in doc or dist/javadoc folder of each question, open   index.html to view.  
   
 
 The csv files are present in root folder.  
